@@ -1,6 +1,0 @@
-flask
-os
-PIL
-tempfile
-torch
-transformers
